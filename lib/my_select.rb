@@ -1,4 +1,3 @@
-nes (28 sloc)  727 Bytes
 describe "my_select" do
   let(:nums) { [1, 2, 3, 4, 5] }
 
